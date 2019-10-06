@@ -1,0 +1,2 @@
+These are sample tests for the s165 key-value store. Specified in the s165 DSL.
+The *.txt files contain the queries to run, while the *.exp files contain the line-by-line expected output/printout of the workloads when they are executed.
